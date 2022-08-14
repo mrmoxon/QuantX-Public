@@ -1,2 +1,3 @@
-# QuantX
-Quantitative Trading Algorithms with Deep Learning
+# QuantX Coding Project
+
+Designing Deep Learning strategies for real-world data. 
